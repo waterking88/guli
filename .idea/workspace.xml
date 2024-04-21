@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.7962658" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="917c1645-95ca-440a-8153-b0a454d8491d" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="publish" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="water_cui" />
+        <option value="water" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="publish" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2dtWdcg8lXJ5y7bzSFyPf4zfniq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_order/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20804597" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\waterking\IdeaProjects\guli-parent\service\service_order\src\main\resources" />
+      <recent name="C:\Users\waterking\IdeaProjects\guli-parent\service\service-edu\src\main\resources" />
+      <recent name="C:\Users\waterking\IdeaProjects\guli-parent\service\service-cms\src\main\resources" />
+      <recent name="C:\Users\waterking\IdeaProjects\guli-parent\service\service-acl\src\main\resources" />
+      <recent name="C:\Users\waterking\IdeaProjects\guli-parent\infrastructure\api_gateway\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\waterking\IdeaProjects\guli-parent\service\service_statistics\src\main\resources" />
+      <recent name="C:\Users\waterking\IdeaProjects\guli-parent\common" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cui.staservice" />
+      <recent name="com.cui.ucenterservice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cui.msmservice.utils" />
+      <recent name="com.cui.orderservice.config" />
+      <recent name="com.cui.staservice" />
+      <recent name="com.cui.orderservice" />
+      <recent name="com.cui.eduservice.entity.client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAclApplication">
+    <configuration name="CodeGenerator.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.staservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cui.staservice" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.staservice.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="canal_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.canal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.canal.CanalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.cmsservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.cmsservice.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-edu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.eduservice.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.orderservice.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.oss.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.aclservice.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.msmservice.ServiceMsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-ucenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.ucenterservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.ucenterservice.ServiceUcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.staservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.staservice.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service_vod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.vod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cui.vod.VodApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CodeGenerator.run (1)" />
+      <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="Spring Boot.StaApplication" />
+      <item itemvalue="Spring Boot.EduApplication" />
+      <item itemvalue="Spring Boot.ServiceMsmApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+      <item itemvalue="Spring Boot.ServiceUcApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.VodApplication" />
+      <item itemvalue="Spring Boot.ServiceAclApplication" />
+      <item itemvalue="Spring Boot.CanalApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Spring Boot.CanalApplication" />
+        <item itemvalue="JUnit.CodeGenerator.run (1)" />
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Spring Boot.CanalApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="917c1645-95ca-440a-8153-b0a454d8491d" name="变更" comment="" />
+      <created>1710827943535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710827943535</updated>
+      <workItem from="1710827945451" duration="9009000" />
+      <workItem from="1710837149365" duration="505000" />
+      <workItem from="1710837679644" duration="166000" />
+      <workItem from="1710837863488" duration="691000" />
+      <workItem from="1710854725923" duration="1389000" />
+      <workItem from="1710997759324" duration="569000" />
+      <workItem from="1710998357578" duration="9977000" />
+      <workItem from="1711089883548" duration="4075000" />
+      <workItem from="1711094023372" duration="1492000" />
+      <workItem from="1711095569623" duration="1445000" />
+      <workItem from="1711097046480" duration="2225000" />
+      <workItem from="1711113319925" duration="2363000" />
+      <workItem from="1711271231529" duration="7916000" />
+      <workItem from="1711345413580" duration="4179000" />
+      <workItem from="1711430852397" duration="9410000" />
+      <workItem from="1711513816932" duration="10000000" />
+      <workItem from="1711607788046" duration="13231000" />
+      <workItem from="1711694148631" duration="4970000" />
+      <workItem from="1711699340242" duration="781000" />
+      <workItem from="1711700142354" duration="120000" />
+      <workItem from="1711700278955" duration="10635000" />
+      <workItem from="1711783351100" duration="12578000" />
+      <workItem from="1711869914284" duration="10506000" />
+      <workItem from="1711957012775" duration="11331000" />
+      <workItem from="1712037692916" duration="6725000" />
+      <workItem from="1712205934638" duration="25628000" />
+      <workItem from="1712234672179" duration="118000" />
+      <workItem from="1712316051979" duration="4470000" />
+      <workItem from="1712468182616" duration="16699000" />
+      <workItem from="1712553204684" duration="19776000" />
+      <workItem from="1712649253701" duration="10025000" />
+      <workItem from="1712727000387" duration="9258000" />
+      <workItem from="1712817010047" duration="15718000" />
+      <workItem from="1712900354959" duration="10629000" />
+      <workItem from="1713076271029" duration="14115000" />
+      <workItem from="1713164277696" duration="12285000" />
+      <workItem from="1713253275248" duration="7472000" />
+      <workItem from="1713336022289" duration="13871000" />
+      <workItem from="1713420169535" duration="16385000" />
+      <workItem from="1713506678137" duration="6394000" />
+      <workItem from="1713532038135" duration="530000" />
+      <workItem from="1713595759990" duration="6432000" />
+      <workItem from="1713602805772" duration="279000" />
+      <workItem from="1713605095116" duration="1481000" />
+      <workItem from="1713615293177" duration="1131000" />
+      <workItem from="1713675140769" duration="5220000" />
+    </task>
+    <task id="LOCAL-00001" summary="讲师管理+课程管理部分（列表展示、Excel文件方式添加）">
+      <created>1711697198569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711697198569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="课程管理部分（课程基本信息上传的完善）">
+      <created>1711873873127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711873873127</updated>
+    </task>
+    <task id="LOCAL-00003" summary="章节管理部分（增删改查）">
+      <created>1711891279071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711891279071</updated>
+    </task>
+    <task id="LOCAL-00004" summary="课时管理部分">
+      <created>1712206153040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712206153040</updated>
+    </task>
+    <task id="LOCAL-00005" summary="视频上传部分">
+      <created>1712222484810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712222484810</updated>
+    </task>
+    <task id="LOCAL-00006" summary="使用nacos+openfeign&#10;实现删除（课时、课程）同时远程调用vod模块删除云端对应的视频。&#10;实现删除课程同时远程调用oss模块删除云端对应的课程封面。">
+      <created>1712234328177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712234328177</updated>
+    </task>
+    <task id="LOCAL-00007" summary="后台幻灯片管理">
+      <created>1712488741908</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712488741908</updated>
+    </task>
+    <task id="LOCAL-00008" summary="front首页幻灯片、热门课程、热门讲师整合redis缓存">
+      <created>1712561016556</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712561016556</updated>
+    </task>
+    <task id="LOCAL-00009" summary="增加：短信服务模块、用户登录/注册模块">
+      <created>1712584262591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712584262593</updated>
+    </task>
+    <task id="LOCAL-00010" summary="增加：微信扫码登录模块">
+      <created>1712818446183</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712818446183</updated>
+    </task>
+    <task id="LOCAL-00011" summary="增加：评论功能,微信扫描支付功能。">
+      <created>1713099858361</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713099858362</updated>
+    </task>
+    <task id="LOCAL-00012" summary="debug:增加订单时，数据缺少讲师名称字段。&#10;完善细节：课程详情页面中：立即观看与立即购买的逻辑显示。">
+      <created>1713169643794</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713169643794</updated>
+    </task>
+    <task id="LOCAL-00013" summary="增加管理端分析统计模块&#10;增加connal数据库同步">
+      <created>1713274586472</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713274586472</updated>
+    </task>
+    <task id="LOCAL-00014" summary="增加gateway网关支持&#10;权限管理模块（部分完成）">
+      <created>1713361067492</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713361067492</updated>
+    </task>
+    <task id="LOCAL-00015" summary="完善权限管理模块&#10;增加订单列表分页查询功能">
+      <created>1713601099590</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713601099590</updated>
+    </task>
+    <task id="LOCAL-00016" summary="guli:1.0">
+      <created>1713693717909</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713693717909</updated>
+    </task>
+    <task id="LOCAL-00017" summary="guli:1.1">
+      <created>1713695169302</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713695169302</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="讲师管理+课程管理部分（列表展示、Excel文件方式添加）" />
+    <MESSAGE value="课程管理部分（课程基本信息上传的完善）" />
+    <MESSAGE value="章节管理部分（增删改查）" />
+    <MESSAGE value="课时管理部分" />
+    <MESSAGE value="视频上传部分" />
+    <MESSAGE value="使用nacos+openfeign&#10;实现删除（课时、课程）同时远程调用vod模块删除云端对应的视频。&#10;实现删除课程同时远程调用oss模块删除云端对应的课程封面。" />
+    <MESSAGE value="后台幻灯片管理" />
+    <MESSAGE value="front首页幻灯片、热门课程、热门讲师整合redis缓存" />
+    <MESSAGE value="增加：短信服务模块、用户登录/注册模块" />
+    <MESSAGE value="增加：微信扫码登录模块" />
+    <MESSAGE value="增加：评论功能,微信扫描支付功能。" />
+    <MESSAGE value="debug:增加订单时，数据缺少讲师名称字段。&#10;完善细节：课程详情页面中：立即观看与立即购买的逻辑显示。" />
+    <MESSAGE value="增加管理端分析统计模块&#10;增加connal数据库同步" />
+    <MESSAGE value="增加gateway网关支持&#10;权限管理模块（部分完成）" />
+    <MESSAGE value="完善权限管理模块&#10;增加订单列表分页查询功能" />
+    <MESSAGE value="guli:1.0" />
+    <MESSAGE value="guli:1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="guli:1.1" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_order/src/main/java/com/cui/orderservice/controller/TOrderController.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-edu/src/main/java/com/cui/eduservice/controller/EduTeacherController.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
